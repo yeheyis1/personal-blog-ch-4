@@ -1,0 +1,14 @@
+/* Basic styling for the blog page */
+#posts-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.post {
+    border: lpx solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 80px;
+    max-width: 600px;
+}
